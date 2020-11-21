@@ -1,4 +1,4 @@
-# PythonWebApp3-ImageReady
+# PythonWebApp-ImageReady
 This Python Application runs a very simple website with HTML and CSS.
 
 This repository is docker ready which means when you pull down the repo, you can easily build a docker image.
